@@ -1,0 +1,11 @@
+columns:
+- name:USER_ID
+  type:CODE
+  required:true
+  default:NULL
+  desc:"Code of User"
+- name: USER_NAME
+  type: NAME
+  required: TRUE
+  desc: "Username"
+  

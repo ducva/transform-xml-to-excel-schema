@@ -1,0 +1,7 @@
+datatypes:
+	id:
+		type:int
+		size:4
+	name:
+		type:String
+		size:255
