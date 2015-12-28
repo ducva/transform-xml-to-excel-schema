@@ -6,3 +6,5 @@ When working with Japanese partners, they have many documents of Logical Design 
 
 Now, I have DB design already, and I need a ER Schema document to share with my Japanese partners, so this tool was born.
 
+#1: Ironhide
+Reading db (Postgresql) into object model
